@@ -1,4 +1,4 @@
-### Building a language detection model with fastText
+### Building a language detection model using NLP algorithm and NLM model.
 
 
 Check out:
